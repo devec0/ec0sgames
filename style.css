@@ -1,0 +1,26 @@
+body {
+    background-color: #36393F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    right: 50%;
+}
+
+.title {
+    color: white;
+    
+}
+
+.welcome {
+    color: white;
+    
+}
+
+.disclaimer {
+    color: white;
+    
+}
+
+.meow{
+    color:#757575;
+    font-style: italic;
+}
